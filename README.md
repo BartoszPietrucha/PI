@@ -1,6 +1,8 @@
 # Monte Carlo Method for Estimating Pi
+![pi_estimation](https://github.com/user-attachments/assets/1176867c-fd16-4b1d-9cf4-6053b2462127)
 
 ## Project Overview
+
 
 This project explores the use of the Monte Carlo simulation technique to approximate the value of π (pi).  
 By generating a large number of random points and analyzing their distribution within a geometric space, we can derive a numerical estimate of pi.
